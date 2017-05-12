@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.masonry {
+  column-count: 2;
+  column-gap: 25px;
+  font-size: 0;
+}
+
+.masonry > div {
+  margin-bottom: 25px;
+}
